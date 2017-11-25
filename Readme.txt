@@ -2,7 +2,10 @@
 小小总结器：具有三种总结方法的文本总结器
 
 使用：
-一看便知
+在python下运行NLPfinalUI.py 即可
+cd to the directory of this work, then
+run python NLPfinalUI.py 
+that's all
 
 功能：
 支持三种不同总结方法
@@ -23,3 +26,5 @@
 还没搞定：
 1.HMM的训练没时间做了
 2.文本框需要点击一下才能出现文字
+
+
