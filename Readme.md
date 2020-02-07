@@ -1,4 +1,4 @@
-'Design © Copyright 2019 by Haoyu Chen'
+'Design © Copyright 2018 by Haoyu Chen'
 
 A small cute text summerizer (in three different methods)
 ==========================
